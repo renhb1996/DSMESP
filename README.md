@@ -13,4 +13,4 @@ load("./RF_Model.RData")
 # After loading, you can use these models for prediction.
 ```
 ## Figure
-![image]https://github.com/renhb1996/Discovery-of-Sweet-Molecules-and-Establishment-of-Sweetness-Prediction-Models/blob/main/%E7%94%98%E8%8D%89%E8%8B%B7.png
+![image](https://github.com/renhb1996/Discovery-of-Sweet-Molecules-and-Establishment-of-Sweetness-Prediction-Models/blob/main/%E7%94%98%E8%8D%89%E8%8B%B7.png)
