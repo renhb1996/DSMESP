@@ -7,7 +7,7 @@
 ```R
 # Model loading
 # Sweet substance recognition
-load("./RF.RData")
+load("./RF_classification.RData")
 # Sweet value prediction
 load("./RF_Model.RData")
 # After loading, you can use these models for prediction.
