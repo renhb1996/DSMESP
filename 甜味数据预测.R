@@ -1,4 +1,5 @@
 library(readxl)
+library(randomForest)
 classification_demo <- read_excel("classification_demo.xlsx")
 load("RF_classification.RData")#调用模型
 desc_1<-read.table("desc.txt",sep = ",")[,1]#调用描述符
